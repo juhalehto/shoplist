@@ -1,0 +1,350 @@
+{
+    "Recipes": 
+    [
+        {
+            "Id":  1,
+            "Name": "Makaronilaatikko", 
+            "Ingredients": [
+                {
+                    "Name": "Makaroni",
+                    "Amount": 1, 
+                    "Unit":  "kpl",
+                    "Type": "pasta"
+                },
+                {
+                    "Name": "Jauheliha",
+                    "Amount": 800, 
+                    "Unit":  "g",
+                    "Type": "liha"
+                },
+                {
+                    "Name": "Sipuli",
+                    "Amount": 1, 
+                    "Unit":  "kpl",
+                    "Type": "hevi"
+                },
+                {
+                    "Name": "Kananmuna",
+                    "Amount": 1, 
+                    "Unit":  "kpl",
+                    "Type": "Muu"
+                },
+                {
+                    "Name": "Maito",
+                    "Amount": 1, 
+                    "Unit":  "l",
+                    "Type": "maito"
+                }
+            ]
+        },
+        {
+            "Id":  2,
+            "Name": "Lohilaatikko", 
+            "Ingredients": [
+                {
+                    "Name": "Lohi",
+                    "Amount": 500, 
+                    "Unit":  "g",
+                    "Type": "liha"
+                },
+                {
+                    "Name": "Perunasipulisekoitus",
+                    "Amount": 1, 
+                    "Unit":  "kg",
+                    "Type": "pakaste"
+                },
+                {
+                    "Name": "Maito",
+                    "Amount": 5, 
+                    "Unit":  "dl",
+                    "Type": "maito"
+                }
+            ]
+        },
+        {
+            "Id":  3,
+            "Name": "Siskonmakkarakeitto", 
+            "Ingredients": [
+                {
+                    "Name": "Siskonmakkara",
+                    "Amount": 1, 
+                    "Unit":  "kpl",
+                    "Type": "liha"
+                },
+                {
+                    "Name": "Peruna",
+                    "Amount": 1, 
+                    "Unit":  "kg",
+                    "Type": "hevi"
+                },
+                {
+                    "Name": "Keittojuurekset",
+                    "Amount": 1, 
+                    "Unit":  "kpl",
+                    "Type": "pakaste"
+                },
+                {
+                    "Name": "Chili",
+                    "Amount": 1, 
+                    "Unit":  "kpl",
+                    "Type": "hevi"
+                }
+            ]
+        },
+        {
+            "Id":  4,
+            "Name": "Kanakeitto", 
+            "Ingredients": [
+                {
+                    "Name": "Kanan fileesuikale",
+                    "Amount": 700, 
+                    "Unit":  "g",
+                    "Type": "liha"
+                },
+                {
+                    "Name": "Keittojuurekset",
+                    "Amount": 1, 
+                    "Unit":  "kpl",
+                    "Type": "pakaste"
+                },
+                {
+                    "Name": "Peruna",
+                    "Amount": 1, 
+                    "Unit":  "kg",
+                    "Type": "hevi"
+                },
+                {
+                    "Name": "Kanaliemikuutio",
+                    "Amount": 1, 
+                    "Unit":  "kpl",
+                    "Type": "muu"
+                }
+            ]
+        },
+        {
+            "Id":  5,
+            "Name": "Kasvissosekeitto", 
+            "Ingredients": [
+                {
+                    "Name": "Peruna",
+                    "Amount": 1, 
+                    "Unit":  "kg",
+                    "Type": "hevi"
+                },
+                {
+                    "Name": "Porkkana",
+                    "Amount": 1, 
+                    "Unit":  "kpl",
+                    "Type": "hevi"
+                },
+                {
+                    "Name": "Kukkakaali",
+                    "Amount": 1, 
+                    "Unit":  "kpl",
+                    "Type": "hevi"
+                },
+                {
+                    "Name": "Bataatti",
+                    "Amount": 2, 
+                    "Unit":  "kpl",
+                    "Type": "hevi"
+                },
+                {
+                    "Name": "Ruokakerma 4%",
+                    "Amount": 2, 
+                    "Unit":  "dl",
+                    "Type": "maito"
+                },
+                {
+                    "Name": "Pekoni",
+                    "Amount": 1, 
+                    "Unit":  "kpl",
+                    "Type": "liha"
+                }
+            ]
+        },
+        {
+            "Id":  6,
+            "Name": "Spaghetti bolognese", 
+            "Ingredients": [
+                {
+                    "Name": "Jauheliha",
+                    "Amount": 800, 
+                    "Unit": "g",
+                    "Type": "liha"
+                },
+                {
+                    "Name": "Tomaattimurska",
+                    "Amount": 2, 
+                    "Unit":  "kpl",
+                    "Type": "muu"
+                },
+                {
+                    "Name": "Sipuli",
+                    "Amount": 1, 
+                    "Unit":  "kpl",
+                    "Type": "hevi"
+                },
+                {
+                    "Name": "Spaghetti",
+                    "Amount": 1, 
+                    "Unit":  "kpl",
+                    "Type": "pasta"
+                }
+            ]
+        },
+        {
+            "Id":  7,
+            "Name": "Jauhelihakastike", 
+            "Ingredients": [
+                {
+                    "Name": "Jauheliha",
+                    "Amount": 800, 
+                    "Unit":  "g",
+                    "Type": "liha"
+                },
+                {
+                    "Name": "Sipuli",
+                    "Amount": 1, 
+                    "Unit":  "kpl",
+                    "Type": "hevi"
+                },
+                {
+                    "Name": "Karkea vehnäjauho",
+                    "Amount": 1, 
+                    "Unit":  "kpl",
+                    "Type": "muu"
+                },
+                {
+                    "Name": "Lihaliemikuutio",
+                    "Amount": 1, 
+                    "Unit":  "kpl",
+                    "Type": "muu"
+                }
+            ]
+        },
+        {
+            "Id":  8,
+            "Name": "Tonnikalakastike", 
+            "Ingredients": [
+                {
+                    "Name": "Tonnikalaa tillissä",
+                    "Amount": 2, 
+                    "Unit":  "kpl",
+                    "Type": "muu"
+                },
+                {
+                    "Name": "Pastakastike",
+                    "Amount": 2, 
+                    "Unit":  "kpl",
+                    "Type": "muu"
+                },
+                {
+                    "Name": "Pakastemaissi",
+                    "Amount": 1, 
+                    "Unit":  "kpl",
+                    "Type": "pakaste"
+                }
+            ]
+        }
+    ],
+    "Frequents": 
+    [
+        {
+            "Id": 200,
+            "Name": "Mehu", 
+            "Ingredients": [
+                {
+                    "Name": "Mehu",
+                    "Amount": 1,
+                    "Unit": "l",
+                    "Type": "muu"
+                }
+            ]
+        },
+        {
+            "Id": 201,
+            "Name": "Maito", 
+            "Ingredients": [
+                {
+                    "Name": "Maito",
+                    "Amount": 1,
+                    "Unit": "l",
+                    "Type": "maito"
+                }
+            ]
+        },
+        {
+            "Id": 202,
+            "Name": "Leipä", 
+            "Ingredients": [
+                {
+                    "Name": "Leipä",
+                    "Amount": 1,
+                    "Unit": "kpl",
+                    "Type": "leipä"
+                }
+            ]
+        },
+        {
+            "Id": 203,
+            "Name": "Kurkku", 
+            "Ingredients": [
+                {
+                    "Name": "Kurkku",
+                    "Amount": 1,
+                    "Unit": "kpl",
+                    "Type": "hevi"
+                }
+            ]
+        },
+        {
+            "Id": 204,
+            "Name": "Tomaatti", 
+            "Ingredients": [
+                {
+                    "Name": "Tomaatti",
+                    "Amount": 1,
+                    "Unit": "kpl",
+                    "Type": "hevi"
+                }
+            ]
+        },
+        {
+            "Id": 205,
+            "Name": "Raejuusto", 
+            "Ingredients": [
+                {
+                    "Name": "Raejuusto",
+                    "Amount": 1,
+                    "Unit": "kpl",
+                    "Type": "juusto"
+                }
+            ]
+        },
+        {
+            "Id": 206,
+            "Name": "Talouspaperi", 
+            "Ingredients": [
+                {
+                    "Name": "talouspaperi",
+                    "Amount": 1,
+                    "Unit": "kpl",
+                    "Type": "talous"
+                }
+            ]
+        },        
+        {
+            "Id": 207,
+            "Name": "Wc-paperi", 
+            "Ingredients": [
+                {
+                    "Name": "Wc-paperi",
+                    "Amount": 1,
+                    "Unit": "kpl",
+                    "Type": "talous"
+                }
+            ]
+        }
+    ]
+}
